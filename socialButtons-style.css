@@ -1,0 +1,123 @@
+#social-buttons {
+  background-color: grey;
+  text-align: center;
+}
+
+#social-buttons .circle {
+  margin: 0px;
+  padding: 0px;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  border-radius: 50%;
+  background-color: none;
+  height: 50px;
+  width: 50px;
+  border: 2px solid white;
+  text-align: center;
+  display: inline-block;
+  margin: 5px;
+}
+
+#social-buttons .circle a {
+  text-decoration: none;
+  color: white;
+}
+
+#social-buttons .circle a span {
+  font-size: 25px;
+  display: block;
+  width: 100%;
+  height: 100%;
+  padding-top: 10px;
+}
+
+#social-buttons .facebook {
+  -webkit-transition: transform 0.5s, background-color 0.5s;
+  -moz-transition: transform 0.5s, background-color 0.5s;
+  -ms-transition: transform 0.5s, background-color 0.5s;
+  transition: transform 0.5s, background-color 0.5s;
+}
+
+#social-buttons .facebook:hover {
+  background-color: #3b5998;
+  -webkit-transform: scale(1.3, 1.3) rotate(360deg);
+  -moz-transform: scale(1.3, 1.3) rotate(360deg);
+  -ms-transform: scale(1.3, 1.3) rotate(360deg);
+  transform: scale(1.3, 1.3) rotate(360deg);
+}
+
+#social-buttons .twitter {
+  -webkit-transition: transform 0.5s, background-color 0.5s;
+  -moz-transition: transform 0.5s, background-color 0.5s;
+  -ms-transition: transform 0.5s, background-color 0.5s;
+  transition: transform 0.5s, background-color 0.5s;
+}
+
+#social-buttons .twitter:hover {
+  background-color: #4099ff;
+  -webkit-transform: scale(1.3, 1.3) rotate(360deg);
+  -moz-transform: scale(1.3, 1.3) rotate(360deg);
+  -ms-transform: scale(1.3, 1.3) rotate(360deg);
+  transform: scale(1.3, 1.3) rotate(360deg);
+}
+
+#social-buttons .instagram {
+  -webkit-transition: transform 0.5s, background-color 0.5s;
+  -moz-transition: transform 0.5s, background-color 0.5s;
+  -ms-transition: transform 0.5s, background-color 0.5s;
+  transition: transform 0.5s, background-color 0.5s;
+}
+
+#social-buttons .instagram:hover {
+  background-color: #9b6954;
+  -webkit-transform: scale(1.3, 1.3) rotate(360deg);
+  -moz-transform: scale(1.3, 1.3) rotate(360deg);
+  -ms-transform: scale(1.3, 1.3) rotate(360deg);
+  transform: scale(1.3, 1.3) rotate(360deg);
+}
+
+#social-buttons .google-plus {
+  -webkit-transition: transform 0.5s, background-color 0.5s;
+  -moz-transition: transform 0.5s, background-color 0.5s;
+  -ms-transition: transform 0.5s, background-color 0.5s;
+  transition: transform 0.5s, background-color 0.5s;
+}
+
+#social-buttons .google-plus:hover {
+  background-color: #d34836;
+  -webkit-transform: scale(1.3, 1.3) rotate(360deg);
+  -moz-transform: scale(1.3, 1.3) rotate(360deg);
+  -ms-transform: scale(1.3, 1.3) rotate(360deg);
+  transform: scale(1.3, 1.3) rotate(360deg);
+}
+
+#social-buttons .github {
+  -webkit-transition: transform 0.5s, background-color 0.5s;
+  -moz-transition: transform 0.5s, background-color 0.5s;
+  -ms-transition: transform 0.5s, background-color 0.5s;
+  transition: transform 0.5s, background-color 0.5s;
+}
+
+#social-buttons .github:hover {
+  background-color: black;
+  -webkit-transform: scale(1.3, 1.3) rotate(360deg);
+  -moz-transform: scale(1.3, 1.3) rotate(360deg);
+  -ms-transform: scale(1.3, 1.3) rotate(360deg);
+  transform: scale(1.3, 1.3) rotate(360deg);
+}
+
+#social-buttons .whatsapp {
+  -webkit-transition: transform 0.5s, background-color 0.5s;
+  -moz-transition: transform 0.5s, background-color 0.5s;
+  -ms-transition: transform 0.5s, background-color 0.5s;
+  transition: transform 0.5s, background-color 0.5s;
+}
+
+#social-buttons .whatsapp:hover {
+  background-color: #4dc247;
+  -webkit-transform: scale(1.3, 1.3) rotate(360deg);
+  -moz-transform: scale(1.3, 1.3) rotate(360deg);
+  -ms-transform: scale(1.3, 1.3) rotate(360deg);
+  transform: scale(1.3, 1.3) rotate(360deg);
+}
