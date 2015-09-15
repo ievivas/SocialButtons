@@ -1,7 +1,7 @@
 # Social Buttons
 Nice and simple CSS3 social buttons with transitions and transforms.
 
-Click the image bellow to see to see the buttons in action:
+Click the image bellow to see the buttons in action:
 
 [![Buttons in action](http://ivanvivas.site90.com/socialButtons.png)](http://ivanvivas.site90.com/socialButtons.html)
 
